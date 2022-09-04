@@ -1,6 +1,9 @@
 # Dice Simulation Tool
 
-This Project is based on Python3.
+This Project is based on Python3 and Open Source.
+It simulates the probabilities of dice results and their distribution.
+
+
 Additional Packages are needed:
 
 Pandas: https://pandas.pydata.org/
